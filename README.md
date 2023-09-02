@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vanianaat
+- 👀 I’m interested in Product Management
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me : through email vanianaat@gmail.com
